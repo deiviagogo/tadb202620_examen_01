@@ -1,0 +1,26 @@
+# Credenciales y configuracion sensible
+*.env
+.env.*
+*credenciales*
+*password*
+*.pem
+*.ppk
+
+# Archivos temporales de sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Archivos temporales de IDEs de base de datos
+.idea/
+.vscode/
+*.dbeaver-data-sources.xml
+*~
+
+# Resultados intermedios / temporales de ejecucion local
+*.log
+/tmp/
+*.tmp
+
+# Dataset original comprimido (se referencia, no se versiona el zip)
+datos_cadena_frio.zip
