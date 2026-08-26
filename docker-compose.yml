@@ -1,0 +1,31 @@
+services:
+  oracle-districold:
+    image: gvenzl/oracle-free:latest
+    container_name: districold-oracle
+    environment:
+      ORACLE_PASSWORD: "ClaveAdmin_2026!"
+    ports:
+      - "1521:1521"
+    volumes:
+      - oracle_data:/opt/oracle/oradata
+      - ./entrega/oracle/sql:/opt/oracle/scripts_examen
+    healthcheck:
+      test: ["CMD", "healthcheck.sh"]
+      interval: 15s
+      timeout: 10s
+      retries: 20
+
+  sqlserver-districold:
+    image: mcr.microsoft.com/mssql/server:2025-latest
+    container_name: districold-sqlserver
+    environment:
+      ACCEPT_EULA: "Y"
+      MSSQL_SA_PASSWORD: "ClaveAdmin_2026!"
+      MSSQL_PID: "Developer"
+    ports:
+      - "1433:1433"
+    volumes:
+      - ./entrega/sqlserver/sql:/var/opt/mssql/scripts_examen
+
+volumes:
+  oracle_data:
