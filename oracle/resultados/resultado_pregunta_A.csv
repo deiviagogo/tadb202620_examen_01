@@ -1,0 +1,68 @@
+"MEDICAMENTO_NOMBRE","FORMA_FARMACEUTICA","TEMPERATURA_MIN_C","TEMPERATURA_MAX_C"
+"Adalimumab Jeringa prellenada","Jeringa prellenada",-25,-15
+"Adalimumab Suspensión inyectable","Suspensión inyectable",15,25
+"Bevacizumab Jarabe","Jarabe",2,8
+"Bevacizumab Jeringa prellenada","Jeringa prellenada",-25,-15
+"Calcitonina Ampolla","Ampolla",-25,-15
+"Desmopresina Jarabe","Jarabe",2,8
+"Desmopresina Jeringa prellenada","Jeringa prellenada",15,25
+"Desmopresina Suspensión inyectable","Suspensión inyectable",15,25
+"Desmopresina Tableta","Tableta",-25,-15
+"Enoxaparina Ampolla","Ampolla",2,8
+"Enoxaparina Jarabe","Jarabe",15,25
+"Enoxaparina Suspensión inyectable","Suspensión inyectable",15,25
+"Enoxaparina Tableta","Tableta",15,25
+"Eritropoyetina Jarabe","Jarabe",2,8
+"Etanercept Tableta","Tableta",15,25
+"Filgrastim Ampolla","Ampolla",15,25
+"Filgrastim Jarabe","Jarabe",-25,-15
+"Filgrastim Jeringa prellenada","Jeringa prellenada",2,8
+"Filgrastim Suspensión inyectable","Suspensión inyectable",15,25
+"Heparina Sódica Jarabe","Jarabe",-25,-15
+"Heparina Sódica Tableta","Tableta",15,25
+"Infliximab Suspensión inyectable","Suspensión inyectable",15,25
+"Infliximab Tableta","Tableta",-25,-15
+"Infliximab Vial","Vial",-25,-15
+"Insulina NPH Ampolla","Ampolla",15,25
+"Insulina NPH Jarabe","Jarabe",2,8
+"Insulina NPH Suspensión inyectable","Suspensión inyectable",-25,-15
+"Insulina NPH Vial","Vial",2,8
+"Rituximab Ampolla","Ampolla",15,25
+"Rituximab Jarabe","Jarabe",15,25
+"Rituximab Suspensión inyectable","Suspensión inyectable",15,25
+"Somatostatina Suspensión inyectable","Suspensión inyectable",2,8
+"Somatostatina Vial","Vial",2,8
+"Somatropina Ampolla","Ampolla",2,8
+"Toxina Botulínica Jarabe","Jarabe",15,25
+"Toxina Botulínica Jeringa prellenada","Jeringa prellenada",2,8
+"Toxina Botulínica Tableta","Tableta",15,25
+"Trastuzumab Tableta","Tableta",15,25
+"Vacuna COVID-19 Ampolla","Ampolla",2,8
+"Vacuna COVID-19 Jarabe","Jarabe",15,25
+"Vacuna COVID-19 Suspensión inyectable","Suspensión inyectable",-25,-15
+"Vacuna DPT Suspensión inyectable","Suspensión inyectable",15,25
+"Vacuna DPT Tableta","Tableta",15,25
+"Vacuna Fiebre Amarilla Ampolla","Ampolla",-25,-15
+"Vacuna Fiebre Amarilla Jarabe","Jarabe",15,25
+"Vacuna Fiebre Amarilla Jeringa prellenada","Jeringa prellenada",2,8
+"Vacuna Fiebre Amarilla Suspensión inyectable","Suspensión inyectable",2,8
+"Vacuna Fiebre Amarilla Tableta","Tableta",2,8
+"Vacuna Hepatitis B Ampolla","Ampolla",-25,-15
+"Vacuna Hepatitis B Suspensión inyectable","Suspensión inyectable",2,8
+"Vacuna Hepatitis B Tableta","Tableta",15,25
+"Vacuna Influenza Ampolla","Ampolla",2,8
+"Vacuna Meningococo Jarabe","Jarabe",2,8
+"Vacuna Meningococo Tableta","Tableta",2,8
+"Vacuna Neumococo Tableta","Tableta",15,25
+"Vacuna Neumococo Vial","Vial",-25,-15
+"Vacuna Papiloma Humano Tableta","Tableta",-25,-15
+"Vacuna Polio Inactivada Jarabe","Jarabe",15,25
+"Vacuna Polio Inactivada Jeringa prellenada","Jeringa prellenada",2,8
+"Vacuna Polio Inactivada Tableta","Tableta",2,8
+"Vacuna Rotavirus Vial","Vial",2,8
+"Vacuna Triple Viral Jeringa prellenada","Jeringa prellenada",15,25
+"Vacuna Triple Viral Suspensión inyectable","Suspensión inyectable",-25,-15
+"Vacuna Triple Viral Tableta","Tableta",2,8
+"Vacuna Varicela Ampolla","Ampolla",15,25
+"Vacuna Varicela Jarabe","Jarabe",-25,-15
+"Vacuna Varicela Jeringa prellenada","Jeringa prellenada",2,8
