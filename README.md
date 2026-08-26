@@ -104,12 +104,3 @@ docker compose up -d
 ```
 
 Todos los scripts fueron **validados y ejecutados de extremo a extremo** localmente contra Oracle Database Free 26ai y SQL Server 2025 (contenedores Docker `gvenzl/oracle-free:latest` y `mcr.microsoft.com/mssql/server:2025-latest`) antes de la entrega. Conteos verificados en ambos motores (idénticos, mismo dataset origen): 18 fabricantes, 6 formas farmacéuticas, 10 ciudades, 3 tipos de almacén, 67 medicamentos, 259 lotes, 25 almacenes, 1000 existencias, 1000 lecturas de temperatura. Los archivos en `resultados/` de cada motor son la salida real de esa ejecución, no datos de ejemplo.
-
-## Pendientes antes de la entrega final
-
-- [ ] Completar nombre completo e ID de SIGAA de ambos integrantes en este README y en los encabezados de cada script SQL.
-- [ ] Agregar capturas de pantalla reales del aprovisionamiento y la conexión IDE en `oracle/docs/01_abastecimiento_conexion_oracle.md` y `sqlserver/docs/01_abastecimiento_conexion_sqlserver.md`, y exportar cada uno a PDF. (Los comandos y pasos ya están documentados y verificados; solo falta la evidencia visual que exige el enunciado.)
-- [ ] Adjuntar capturas de pantalla completas de la interacción con la herramienta de IA en `oracle/docs/02_interaccion_ia_oracle.md` y `sqlserver/docs/02_interaccion_ia_sqlserver.md` (uno por integrante), y exportar cada uno a PDF. Sin esto, la nota es 0.00 por configurarse como fraude.
-- [ ] Crear el repositorio privado `tadb202620_examen_01` en GitHub, agregar como colaborador al usuario `jdrodas` (jdrodas@hotmail.com), y hacer push de esta carpeta como raíz del repositorio.
-- [ ] Verificar que ambos integrantes figuren como contribuyentes reales del repositorio (commits propios).
-- [ ] Enviar el correo de notificación de entrega a `juand.rodasm@upb.edu.co` con ambos integrantes en copia, antes del 26 de agosto de 2026, 10:00 pm (GMT-5).
